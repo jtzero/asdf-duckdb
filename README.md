@@ -19,8 +19,6 @@
 Plugin:
 
 ```shell
-asdf plugin add duckdb
-# or
 asdf plugin add duckdb https://github.com/jtzero/asdf-duckdb.git
 ```
 
